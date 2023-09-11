@@ -1,8 +1,3 @@
-
-
-
-Other:	POSTMAN, IDE (Eclipse, STS4), JIRA
-
 <h1 align="center">Hi 👋, I'm Ami Shah</h1>
 <h3 align="center">A passionate Full Stack Java developer</h3>
 
