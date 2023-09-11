@@ -21,15 +21,14 @@ Other:	POSTMAN, IDE (Eclipse, STS4), JIRA
 
 
 <h3 align="left">Front-end technologies:</h3>
+
 <div style="display: inline-block; text-align: center; margin-right: 20px;">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <p>BootStrap</p>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 20px;">
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <p>HTML</p>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 20px;">
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <p>JavaScript</p>
 </div>
