@@ -1,11 +1,6 @@
 
 
-Programming Languages: Java
-Front-end technologies: HTML, CSS, Bootstrap 5, JavaScript, TypeScript
-UI Libraries/Frameworks:	React, AngularJS
-Databases:	Oracle, MYSQL
-Enterprise Framework: Spring boot
-CI tool: Jenkins
+
 Other:	POSTMAN, IDE (Eclipse, STS4), JIRA
 
 <h1 align="center">Hi 👋, I'm Ami Shah</h1>
@@ -35,21 +30,13 @@ Other:	POSTMAN, IDE (Eclipse, STS4), JIRA
 
 
 <h3 align="left">CI tool:</h3>
-
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>   </p>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Other:</h3>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> 
 
-
-
-
-
-
-
-<p align="left"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   
 
 
