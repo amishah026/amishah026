@@ -1,6 +1,3 @@
-Hi, I'm Ami Shah!
-I'm a full Stack Java Developer.
-
 Programming Languages: Java
 Front-end technologies: HTML, CSS, Bootstrap 5, JavaScript, TypeScript
 UI Libraries/Frameworks:	React, AngularJS
@@ -10,9 +7,9 @@ CI tool: Jenkins
 Other:	POSTMAN, IDE (Eclipse, STS4), JIRA
 
 <h1 align="center">Hi 👋, I'm Ami Shah</h1>
-<h3 align="center">A passionate full stack java developer</h3>
+<h3 align="center">A passionate Full Stack Java developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
